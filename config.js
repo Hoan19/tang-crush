@@ -1,9 +1,10 @@
 const CONFIG = {
     introTitle: 'Em à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Gặp em anh bỗng muốn thờ.
+    Không "thờ ích thích" mà "thờ ương thương".
+    Câu thả thính là anh coppy đó,
+    nhưng tình cảm anh dành cho em là thật lòng.
+    Đằng sau chữ thích là chữ thương`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
@@ -13,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    messDesc: 'Em ơi, mẹ anh gọi em là con dâu kìa!',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
