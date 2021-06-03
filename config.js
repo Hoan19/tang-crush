@@ -5,7 +5,7 @@ const CONFIG = {
     Câu thả thính là anh coppy đó,
     nhưng tình cảm anh dành cho em là thật lòng.
     Đằng sau chữ thích là chữ thương`,
-    btnIntro: 'hihi',
+    btnIntro: 'thích',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là thích anh <33',
